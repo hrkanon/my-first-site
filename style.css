@@ -66,13 +66,37 @@ h1{
     height: 150px;
     padding: 50px 100px;
     margin: 30px 50px;
-    font-size: 50px;
     background-image:url(images/Group_33094_1.png) ;
     background-size: 100%;
     background-repeat: no-repeat;
     background-position: center;
     background-size: 70%;
 }
+.first-div{
+    margin-left: 100px;
+    margin-top: 30px;
+    font-size: 40px;
+    font-weight: 700;
+    float: left;   
+}
+.second-div{
+    margin-top: 35px;
+    margin-right: 100px;
+}
 .lets-chat{
     color: cornsilk;
+    text-decoration: none;
+    background-color: sandybrown;
+    padding: 10px 40px;
+    border-radius:5px;
+    float: right;
+}
+.stay-connected{
+    text-align: center;
+}
+.hello{
+    text-align: center;
+}
+.icon{
+    text-align: center;
 }
