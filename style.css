@@ -1,0 +1,78 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+}
+h1{
+    font-size: 50px;
+}
+.orange-highlight{
+    color:orangered;
+}
+.top-banner{
+    height: 500px;
+}
+.middle1-banner{
+    height: 600px;
+}
+.half-width{
+    width: 35%;
+    float: left;
+    margin-left: 10%;
+    padding: 2%;
+    height: 500px;
+}
+.half-width img{
+    width: 100%;
+}
+.anchor-button{
+    text-decoration: none;
+    background-color: orangered;
+    padding: 10px 40px;
+    border-radius:5px;
+    color: white;
+}
+.text-button{
+    text-decoration: none;
+    background-color: sandybrown;
+    padding: 10px 40px;
+    border-radius:5px;
+    color: white;
+}
+.center{
+    text-align: center;
+}
+.text-color{
+    color: brown;    
+}
+.quarter-width{
+    width: 22%;
+    height: 200px;
+    float: left;
+    margin-left: 5%;
+    margin-right: 2%;
+    padding: 2%; 
+    border: 20px;
+}
+.quarter-width img{
+    width: 100%;
+    border: 5px solid white;
+    border-radius: 5px;
+}
+.middle2-banner{
+    height: 600px;
+    background-color: rgb(243, 242, 237);
+}
+.aft-banner{
+    height: 150px;
+    padding: 50px 100px;
+    margin: 30px 50px;
+    font-size: 50px;
+    background-image:url(images/Group_33094_1.png) ;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 70%;
+}
+.lets-chat{
+    color: cornsilk;
+}
